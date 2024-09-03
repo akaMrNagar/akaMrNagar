@@ -1,5 +1,5 @@
 ## 🧔 About me
-_MCA graduate and Flutter fanatic, turning caffeine into cross-platform apps. Adapts to new tech faster than to early mornings. On a quest to make things work—without breaking too much. Ready to join dynamic teams or just share some sarcasm along the way.<br/>Oh, and one last thing-_ **I’m Batman🦇**.
+_MCA graduate and Flutter fanatic, turning caffeine into code. Adapts to new tech faster than to early mornings. On a quest to make things work—without breaking too much. Ready to join dynamic teams or just share some sarcasm along the way.<br/>Oh, and one last thing-_ **I’m Batman🦇**.
 
 
 
