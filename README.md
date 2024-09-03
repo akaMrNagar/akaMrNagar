@@ -1,4 +1,8 @@
-## Hi there 👋
+## 🧔 About me
+_MCA graduate and Flutter fanatic, turning caffeine into cross-platform apps. Adapts to new tech faster than to early mornings. On a quest to make things work—without breaking too much. Ready to join dynamic teams or just share some sarcasm along the way.<br/>Oh, and one last thing-_ **I’m Batman🦇**.
+
+
+
 🔭 I’m currently working on _**[Mindful - Focus and Wellbeing](https://github.com/akaMrNagar/Mindful)**_ <br>
 👯 I’m looking to collaborate on _**Flutter projects**_ <br>
 🌱 I’m currently learning  _**CI/CD with GitHub Actions**_ <br>
