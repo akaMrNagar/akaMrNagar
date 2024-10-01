@@ -6,7 +6,8 @@ _MCA graduate and Flutter fanatic, turning caffeine into code. Adapts to new tec
 🔭 I’m currently working on _**[Mindful - Focus and Wellbeing](https://github.com/akaMrNagar/Mindful)**_ <br>
 👯 I’m looking to collaborate on _**Flutter projects**_ <br>
 🌱 I’m currently learning  _**CI/CD with GitHub Actions**_ <br>
-📫 Ping me at _**akamrnagar003@gmail.com**_
+📫 Ping me at _**akamrnagar003@gmail.com**_ <br>
+😉 More about me at  _**[Portfolio](https://akamrnagar.vercel.app)**_
 
 ## ⌨️ 
  
